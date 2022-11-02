@@ -1,0 +1,30 @@
+*{
+    padding-right: 2pxpx;
+   background-color:white;
+    box-sizing: border-box;
+    width: 200px;
+        margin-top: 10px;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+cards{
+
+    width: 30%;
+    background-color: yellowgreen;
+}
+
+img{
+    border-radius: 10px;
+}
+
+
+@media only screen and (max-width : 300px) {
+    
+}
