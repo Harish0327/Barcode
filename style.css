@@ -14,11 +14,8 @@ body{
     align-items: center;
     justify-content: center;
 }
-cards{
 
-    width: 30%;
-    background-color: yellowgreen;
-}
+
 
 img{
     border-radius: 10px;
@@ -28,3 +25,5 @@ img{
 @media only screen and (max-width : 300px) {
     
 }
+Footer
+© 2022 GitHub, Inc.
